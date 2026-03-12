@@ -1,5 +1,5 @@
 [Readme.md](https://github.com/user-attachments/files/25913970/Readme.md)
-# R7 Consult — Сообщество разработчиков плагинов для Р7-Офис
+# {r7}.consult — Сообщество разработчиков плагинов для Р7-Офис
 
 Добро пожаловать в официальную GitHub-организацию проекта **R7 Consult**!
 
