@@ -20,7 +20,7 @@
 
 Репозиторий: [github.com/r7-consult/r7c-packages](https://github.com/r7-consult/r7c-packages)
 
-###Процедура добавления плагина в общий каталог
+### Процедура добавления плагина в общий каталог
 add_plugin_guide (github.com/r7-consult/r7c/blob/main/docs/add_plugin_guide.md)
 
 ###  Готовые плагины
